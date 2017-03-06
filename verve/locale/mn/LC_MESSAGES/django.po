@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 18:46+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\templates\cont_thanks.html:43 .\templates\contact.html:43
+#: .\templates\index.html:43 .\templates\project.html:43
+msgid "Projects"
+msgstr "Ажилууд"
+
+#: .\templates\cont_thanks.html:46 .\templates\contact.html:46
+#: .\templates\index.html:46 .\templates\project.html:46
+msgid "Team"
+msgstr "Манай Баг"
+
+#: .\templates\cont_thanks.html:49 .\templates\contact.html:49
+#: .\templates\index.html:49 .\templates\project.html:49
+msgid "Pricing"
+msgstr "Үнийн санал"
+
+#: .\templates\cont_thanks.html:52 .\templates\contact.html:52
+#: .\templates\index.html:52 .\templates\project.html:52
+msgid "Contact"
+msgstr "Холбоо барих"
+
+#: .\templates\cont_thanks.html:90
+msgid ""
+"Успешно :)  Спасибо обратились к нам.  Мы получили ваше письмо. Ждите "
+"обратного ответа!"
+msgstr ""
+
+#: .\templates\index.html:200
+msgid "This site for free VPN based on OpenVPN."
+msgstr ""
+
+#: .\templates\project.html:90
+msgid "Good"
+msgstr ""
+
+#: .\templates\project.html:90
+msgid "afternoon"
+msgstr ""
+
+#: .\templates\project.html:91
+msgid "How can we"
+msgstr ""
+
+#: .\templates\project.html:91
+msgid "help you?"
+msgstr ""
+
+#: .\templates\project.html:102
+msgid "#Tel"
+msgstr ""
+
+#: .\templates\project.html:103
+msgid "#Mail"
+msgstr ""
+
+#: .\templates\project.html:117
+msgid "Name*"
+msgstr ""
+
+#: .\templates\project.html:117
+msgid "Please enter your name."
+msgstr ""
+
+#: .\templates\project.html:121
+msgid "Company"
+msgstr ""
+
+#: .\templates\project.html:125
+msgid "Please enter your email address."
+msgstr ""
+
+#: .\templates\project.html:129
+msgid "Telephone"
+msgstr ""
+
+#: .\templates\project.html:133
+msgid "Description* *"
+msgstr ""
+
+#: .\templates\project.html:133
+msgid "Please enter a message."
+msgstr ""
+
+#: .\verve\settings.py:124
+msgid "English"
+msgstr ""
+
+#: .\verve\settings.py:125
+msgid "Mongolian"
+msgstr ""

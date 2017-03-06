@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="ec0d8031-9b11-4604-8df1-baa02eb3526e">
+      <user-name>root</user-name>
+      <user-password>dfdfdfd8dfcbdfcddfd9dfc2dfcbdfcb</user-password>
+      <schema-pattern>verve.*</schema-pattern>
+      <default-schemas>verve.*</default-schemas>
+    </data-source>
+  </component>
+</project>
